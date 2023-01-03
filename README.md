@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ghada elhossieny
-- iam data analytic
+- iam data analyst
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on this field
