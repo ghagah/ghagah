@@ -1,6 +1,7 @@
 - 👋 Hi, I’m ghada elhossieny
+- iam data analytic
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on this field
 - 📫 How to reach me ...
 
